@@ -1,0 +1,36 @@
+/*Elements styles*/
+
+
+/*Header style*/
+
+#top {
+    border-bottom: 1px solid black;
+}
+
+
+/*Heading Style*/
+
+h1 {
+    border-bottom: 1px solid black;
+}
+
+
+/*Article style*/
+
+article {
+    border-bottom: 1px solid black;
+}
+
+
+/*Footer style*/
+
+#footer {
+    border-bottom: 1px solid black;
+}
+
+
+/* Bottom border for all future elements*/
+
+* {
+    border-bottom: 1px solid black;
+}
